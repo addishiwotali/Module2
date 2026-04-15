@@ -1,0 +1,15 @@
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.AssemblyInfoInputs.cache
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.AssemblyInfo.cs
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.csproj.CoreCompileInputs.cache
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.sourcelink.json
+/Users/addishiwotali/Desktop/repos/Module2/Module2/bin/Debug/net9.0/Module2
+/Users/addishiwotali/Desktop/repos/Module2/Module2/bin/Debug/net9.0/Module2.deps.json
+/Users/addishiwotali/Desktop/repos/Module2/Module2/bin/Debug/net9.0/Module2.runtimeconfig.json
+/Users/addishiwotali/Desktop/repos/Module2/Module2/bin/Debug/net9.0/Module2.dll
+/Users/addishiwotali/Desktop/repos/Module2/Module2/bin/Debug/net9.0/Module2.pdb
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.dll
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/refint/Module2.dll
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.pdb
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/Module2.genruntimeconfig.cache
+/Users/addishiwotali/Desktop/repos/Module2/Module2/obj/Debug/net9.0/ref/Module2.dll
